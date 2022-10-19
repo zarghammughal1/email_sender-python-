@@ -1,3 +1,7 @@
+"""
+    Send the email using python.
+"""
+
 import smtplib
 from email.message import EmailMessage
 from pathlib import Path
